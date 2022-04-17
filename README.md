@@ -1,3 +1,6 @@
+# badge - added by me
+[![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-zackmarks/branch/main/graph/badge.svg?token=KdRm1LCyEK)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-zackmarks)
+
 # demo-spring-react-example-v2: dsre-v2
 
 Storybook is here:
